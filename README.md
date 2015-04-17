@@ -144,4 +144,4 @@ Make sure you've [signed the CLA](https://code.facebook.com/cla) before sending 
 
 Facebook has a [bounty program](https://www.facebook.com/whitehat/) for
 the safe disclosure of security bugs. If you find a vulnerability, please
-go through the process outlined on that page and do not file a public issue. 
+go through the process outlined on that page and do not file a public issue.
