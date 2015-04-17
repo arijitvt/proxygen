@@ -1,1 +1,2 @@
-SUBDIRS = echo
+SUBDIRS = echo  \
+		  myecho
